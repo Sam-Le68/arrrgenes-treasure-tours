@@ -43,6 +43,7 @@ nav a:focus {
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #704c2a;
 }
 
 .card {
@@ -73,6 +74,7 @@ nav a:focus {
   background-color: #bea59b;
   border-color: #fff;
   color: #522806;
+  outline-color: white;
 }
 
 .footer {
